@@ -1,0 +1,8 @@
+{
+    "name": "jp.chatdollkit",
+    "author": "tinjyuu",
+    "version": "0.0.7",
+    "displayName": "ChatdollKit",
+    "description": "3D virtual assistant SDK that enables you to make your 3D model into a voice-enabled chatbot.",
+    "unity": "2021.3"
+}
